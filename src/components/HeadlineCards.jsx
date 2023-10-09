@@ -9,7 +9,7 @@ const HeadlineCards = () => {
             <div className="rounded-xl relative ">
                 {/* overlay */}
                 <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-                    <p className="fnt-bold text-2xl px-2 pt-4">bBacon Cheeseburger</p>
+                    <p className="fnt-bold text-2xl px-2 pt-4">Beef Bacon Cheeseburger</p>
                     <p className="px-2">Ready</p>
                     <button className="border-white border-2 bg-transparent hover:bg-orange-600 hover:border-orange-600 duration-500 text-white mx-2 absolute bottom-4 rounded-lg p-1">Order Now </button>
                 </div>
